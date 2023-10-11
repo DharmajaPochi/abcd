@@ -1,6 +1,6 @@
 html>
     <head>
-        <title>Bindu's Portfolio</title>
+        <title>Dharmaja's Portfolio</title>
         <link rel="stylesheet" type="text/css" href="style.css">
         <link ref="preconnect" href="http://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css?family=Josefin+Sans: ital, wght@0,100;0 ,200;0,300;0,400; 0,500; 0,600; 0,700; 1,100; 1, 200;1, 300; 1,400; 1,500; 1,600; 1, 700&displa y=swap" rel="stylesheet">
@@ -22,7 +22,7 @@ html>
             </nav>
             <div class="content">
                 <h4>Hello,my name is</h4>
-                <h1>Bindu<span>Reddyvari</span>  </h1>
+                <h1>Dharmaja<span>reddy</span>  </h1>
                 <h3>I'am a engineer</h3>
             </div>
         </div>
